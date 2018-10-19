@@ -1,0 +1,23 @@
+1. What is our independent variable? What is our dependent variable?
+
+Independent variable: congruent or incongruent condition.
+Dependent variable: Time taken to complete test.
+
+2. What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform? Justify your choices.
+
+
+Null Hypothesis, H0 - No change in time between two reading tasks (congruent or incongruent)
+Alternate Hypothesis, H1 - incongruent task take more time than congruent.
+H0: μi ≤ μc (μi - population mean of incongruent values, μc - population mean of congruent values)
+
+H1: μi > μc (μi - population mean of incongruent values, μc - population mean of congruent values)
+
+statistical test dependent t-test (two tailed)
+
+    We need to compare the means of two related groups to determine the statistically significant difference between two means.
+    We are assuming distributions are nearly normal and we are comparing 2 dependent samples of data
+    our sample size less than 30 and we don't know the population standard deviations
+
+3. Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one measure of variability.
+
+
